@@ -40,8 +40,7 @@ Alternatively, for a CPU installation, please setup the virtual environment as p
 ```
 python3 -m venv venv
 source venv/bin/activate
-pip install -r cpu_requirements1.txt -f https://download.pytorch.org/whl/torch_stable.html
-pip install -r cpu_requirements2.txt -f https://pytorch-geometric.com/whl/torch-1.5.0.html
+pip install -r cpu_requirements.txt
 ``` 
 
 
